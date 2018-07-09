@@ -1,0 +1,22 @@
+{
+  "name": "tutorial-node",
+  "version": "1.0.0",
+  "description": "Tutorial node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teejay2018/tutorial-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teejay2018/tutorial-node/issues"
+  },
+  "homepage": "https://github.com/teejay2018/tutorial-node#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
